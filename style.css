@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container > h1{
+  padding: 15px;
+}
+h2{
+  color: #10e3b2;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #dc3545;
+  color: white;
+}
